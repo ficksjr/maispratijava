@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Principal
+comment0.text=\r\n\ Esta\ \u00E9\ a\ classe\ principal\ onde\ v\u00E3o\ ser\ executados\ os\ m\u00E9todos\ das\ outras\ classes.\r\n\ \r\n\ @author\ (Ficksjr)\ \r\n\ @version\ (v1.0)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Monitor
+comment0.text=\r\n\ Esta\ classe\ que\ representa\ os\ atributos\ e\ m\u00E9todos\ de\ um\ Monitor\ de\ Computador\r\n\ \r\n\ @author\ (ficksjr)\ \r\n\ @version\ (v1.0)\r\n
+comment1.params=reso
+comment1.target=void\ ajustarReso(int)
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Caneta
+comment0.text=\r\n\ Esta\ classe\ \u00E9\ para\ defini\u00E7\u00E3o\ da\ classe\ Caneta\r\n\ \r\n\ @author\ (Ficksjr)\ \r\n\ @version\ (v1.0)\r\n
+comment1.params=txt
+comment1.target=void\ escrever(java.lang.String)
+comment2.params=cor
+comment2.target=void\ ajustarCor(java.lang.String)
+comment3.params=tamanho
+comment3.target=void\ ajustarTamanho(java.lang.String)
+numComments=4
