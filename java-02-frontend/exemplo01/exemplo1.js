@@ -1,0 +1,1 @@
+/*Aquivo com os códigos de Javascript*/
