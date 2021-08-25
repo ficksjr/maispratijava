@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Tela
+comment0.text=\r\n\ Classe\ para\ obter\ os\ dados\ do\ n\u00FAmero\ e\ trat\u00E1-lo\ para\ enviar\ para\ classe\ principal.\r\n\ \r\n\ @author\ (ficksjr)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=txt
+comment1.target=int\ retornaInt(java.lang.String)
+comment1.text=\r\n\ M\u00E9todo\ que\ exibe\ uma\ janela\ de\ di\u00E1logo\ para\ receber\ um\ texto\ e\ retornar\ um\ inteiro.\r\n\ \r\n\ @param\ (String)\ \r\n\ @return\ (int)\r\n
+comment2.params=txt
+comment2.target=java.lang.String\ retornaTxt(java.lang.String)
+comment2.text=\r\n\ M\u00E9todo\ que\ exibe\ uma\ janela\ de\ di\u00E1logo\ para\ receber\ um\ texto\ e\ retornar\ ele.\r\n\ \r\n\ @param\ (String)\ \r\n\ @return\ (String)\r\n
+comment3.params=txt
+comment3.target=double\ retornaDbl(java.lang.String)
+comment3.text=\r\n\ M\u00E9todo\ que\ exibe\ uma\ janela\ de\ di\u00E1logo\ para\ receber\ um\ texto\ e\ retornar\ um\ double\r\n\ \r\n\ @param\ (String)\ \r\n\ @return\ (double)\r\n
+comment4.params=txt
+comment4.target=void\ mostraTxt(java.lang.String)
+comment4.text=\r\n\ M\u00E9todo\ que\ exibe\ uma\ janela\ de\ di\u00E1logo\ com\ o\ texto\ informado\ do\ par\u00E2metro\r\n\ \r\n\ @param\ (String)\ \r\n
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FuncHorista
+comment0.text=\r\n\ Esta\ classe\ \u00E9\ a\ que\ define\ os\ m\u00E9todos\ do\ Funcion\u00E1rio\ Horista\r\n\ @\r\n
+comment1.params=nom\ ema\ qtd\ val
+comment1.target=FuncHorista(java.lang.String,\ java.lang.String,\ int,\ double)
+comment1.text=\r\n\ Construtor\ para\ os\ objetos\ da\ classe\ FuncHorista\r\n
+comment2.params=
+comment2.target=double\ calcularSalario()
+numComments=3
