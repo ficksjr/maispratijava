@@ -1,0 +1,63 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size:14px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#geral {
+    width: 700px;
+    margin: auto;
+}
+
+#header {
+    background-image: url(header130px.jpg);
+    width: auto;
+    height: 130px;
+    background-size: auto;
+}
+
+#menu {
+    height: 20px;
+    padding: 30px;
+    text-align: center;
+    background-color: #085D69;
+}
+
+#menu a{
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+
+#menu a:hover{
+    color: black;
+    background-color: #A1E4F0;
+}
+
+.botaomenu {
+    font-size: 20px;
+}
+
+#content {
+    padding: 10px;
+    text-align:justify;
+    background-color: white;
+}
+
+#footer {
+    height: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color:#0D8DA3;
+}
+
+html {
+    overflow-y: scroll;
+    background-color:#505C5E;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
